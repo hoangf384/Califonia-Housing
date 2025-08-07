@@ -1,6 +1,8 @@
-Language: 🇻🇳 \
-Dataset : [fetch_california_housing](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
+## Note
 
+Language: 🇻🇳 \
+Dataset: [fetch_california_housing](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html) \
+Dataset sẽ được tự động tải khi khởi chạy file notebook.
 ## California Housing - Data Analysis & Modeling
 
 ###  Mô tả
